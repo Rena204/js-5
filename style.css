@@ -1,0 +1,19 @@
+.movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .movie {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .movie img {
+    width: 200px;
+    height: 300px;
+  }
+  
+  h1.title {
+    text-align: center;
+  }
